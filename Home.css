@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .faq {
   padding: 50px;
   height: auto;
