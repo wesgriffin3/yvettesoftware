@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .u-section-1 {
   min-height: 623px;
 }

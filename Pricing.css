@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .u-section-1 {
   background-image: linear-gradient(#e5e5e5, #b3b3b3);
   min-height: 1326px;
